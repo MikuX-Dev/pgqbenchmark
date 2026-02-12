@@ -5,7 +5,7 @@ The benchmark code here was based on [golang-sql-builder-benchmark](https://gith
 It compares the following:
 
 * [Squirrel](https://github.com/lann/squirrel)
-* [pgq](https//github.com/henvic/pgq)
+* [pgq](https//github.com/MikuX-Dev/pgq)
 * [sqrl](https://github.com/elgris/sqrl)
 
 Details:
