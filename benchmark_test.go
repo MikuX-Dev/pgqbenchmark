@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/Masterminds/squirrel"
+	"github.com/MikuX-Dev/pgq"
 	"github.com/elgris/sqrl"
-	"github.com/henvic/pgq"
 )
 
 // Use the Dollar placeholder format as required by PostgreSQL.
