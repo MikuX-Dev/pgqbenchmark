@@ -4,7 +4,7 @@ go 1.25.7
 
 require (
 	github.com/Masterminds/squirrel v1.5.3
-	github.com/MikuX-Dev/pgq v0.0.1
+	github.com/MikuX-Dev/pgq v0.1.0
 	github.com/elgris/sqrl v0.0.0-20210727210741-7e0198b30236
 )
 
